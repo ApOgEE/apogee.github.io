@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: What About This Page?
 date: 2021-01-20 22:00:00 -0000
 ---
