@@ -2,7 +2,7 @@
 layout: post
 title: "Bismillahirrahmanirrahim"
 date: 2021-01-20 22:14:00 -0000
-categories: blog sembang
+tags: blog sembang
 ---
 
 Mulakan dengan Bismillah
