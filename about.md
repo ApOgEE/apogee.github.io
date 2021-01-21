@@ -12,4 +12,4 @@ My previous coding blog is [Coder's Talk](https://coderstalk.blogspot.com)
 
 ### Contact me
 
-[apogee@apogeek.com](mailto:apogee@apogeek.com)
+[Telegram](https://t.me/apogeek)
